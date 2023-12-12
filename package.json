@@ -1,0 +1,34 @@
+{
+  "name": "codesso",
+  "displayName": "Codesso",
+  "description": "A very clean, minimalistic theme for VS Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "icon": "icon.png",
+  "publisher": "elvados",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "color-theme",
+    "dark",
+    "code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadyapan/theme-codesso.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codesso",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-codesso.json"
+      }
+    ]
+  }
+}

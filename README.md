@@ -1,4 +1,4 @@
-![Cover](https://cdn.rawgit.com/vadyapan/theme-codesso/master/assets/cover.png)
+![Cover](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cover.png)
 
 # Installation
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![ScreenShot](https://cdn.rawgit.com/vadyapan/theme-codesso/master/assets/screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot.png)
 
 </div>
 

@@ -278,7 +278,7 @@
     "editorBracketPairGuide.background5": "#A392DC80",
     "editorBracketPairGuide.background6": "#D1918F80",
     "editorWhitespace.foreground": "#0000",
-    "editorIndentGuide.background": "#434343",
+    "editorIndentGuide.background": "#2f2f2f",
     "editorIndentGuide.activeBackground": "#7a7a7a",
     "editorCodeLens.foreground": "#D6B4B4",
     "editorError.border": "#0000",

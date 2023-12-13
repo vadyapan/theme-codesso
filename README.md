@@ -17,3 +17,17 @@
 > The font in the screenshot is `iA Writer Mono`. You can download this font from [GitHub repository][ia-writer-mono-install].
 
 [ia-writer-mono-install]: https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono
+
+# Recommendations
+
+Below you can find a few recommendations for your `settings.json`:
+
+```json
+{
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "explorer.compactFolders": false,
+  "breadcrumbs.icons": false
+}
+```

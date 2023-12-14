@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cover.png)
+![Cover](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/main-cover.png)
 
 # Installation
 
@@ -10,13 +10,13 @@
 
 <div align="center">
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/main-screenshot.png)
 
 </div>
 
-> The font in the screenshot is `iA Writer Mono`. You can download this font from [GitHub repository][ia-writer-mono-install].
+> The font in the screenshot is `Noto Sans Mono`. You can download this font from [Google Fonts][noto-sans-mono-install].
 
-[ia-writer-mono-install]: https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono
+[noto-sans-mono-install]: https://fonts.google.com/noto/specimen/Noto+Sans+Mono
 
 # Recommendations
 

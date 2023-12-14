@@ -10,13 +10,11 @@
 
 <div align="center">
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/main-screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/main-screen.png)
 
 </div>
 
-> The font in the screenshot is `Noto Sans Mono`. You can download this font from [Google Fonts][noto-sans-mono-install].
-
-[noto-sans-mono-install]: https://fonts.google.com/noto/specimen/Noto+Sans+Mono
+> The font in the screenshot is `PT Mono`
 
 # Recommendations
 

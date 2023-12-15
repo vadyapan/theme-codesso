@@ -6,17 +6,15 @@
 2. Search for **`codesso`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
-   **Codesso**
+   **Codesso** or **Codesso Light**
 
 <div align="center">
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/main_screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/dark-screenshot.png)
+
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/light-screenshot.png)
 
 </div>
-
-> The font in the screenshot is `Red Hat Mono`. You can download this font from [Google Fonts][red-hat-mono-install].
-
-> [red-hat-mono-install]: https://fonts.google.com/specimen/Red+Hat+Mono?classification=Monospace
 
 # Recommendations
 

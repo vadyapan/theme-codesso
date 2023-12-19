@@ -201,6 +201,7 @@
     "statusBar.debuggingForeground": "#7a7a7a",
     "statusBarItem.remoteBackground": "#ffffff",
     "statusBarItem.remoteForeground": "#7a7a7a",
+    "statusBarItem.prominentBackground": "#ffffff",
     "sash.hoverBorder": "#D8DAE4",
     "tab.activeForeground": "#4E5377",
     "tab.hoverForeground": "#4E5377",

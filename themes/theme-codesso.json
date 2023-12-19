@@ -204,6 +204,7 @@
     "statusBar.debuggingForeground": "#7a7a7a",
     "statusBarItem.remoteBackground": "#1f1f1f",
     "statusBarItem.remoteForeground": "#7a7a7a",
+    "statusBarItem.prominentBackground": "#1f1f1f",
     "editorError.foreground": "#D1918F",
     "sash.hoverBorder": "#434343",
     "tab.activeForeground": "#d4d4d4",

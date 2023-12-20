@@ -69,7 +69,7 @@
     {
       "scope": ["meta.tag", "meta.brace"],
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#DEE0EF"
       }
     },
     {
@@ -170,7 +170,7 @@
         "variable.argument"
       ],
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#DEE0EF"
       }
     },
     {
@@ -183,8 +183,8 @@
   "colors": {
     "focusBorder": "#00000000",
     "editor.background": "#1f1f1f",
-    "editor.foreground": "#d4d4d4",
-    "editorCursor.foreground": "#d4d4d4",
+    "editor.foreground": "#DEE0EF",
+    "editorCursor.foreground": "#DEE0EF",
     "editor.selectionBackground": "#73402a4d",
     "editor.lineHighlightBackground": "#1f1f1f",
     "activityBar.background": "#1f1f1f",
@@ -196,7 +196,7 @@
     "textLink.activeForeground": "#AAC9D4",
     "sideBar.background": "#1f1f1f",
     "sideBarSectionHeader.background": "#1f1f1f",
-    "sideBarSectionHeader.foreground": "#d4d4d4",
+    "sideBarSectionHeader.foreground": "#DEE0EF",
     "statusBar.background": "#1f1f1f",
     "statusBar.foreground": "#7a7a7a",
     "statusBar.debuggingBorder": "#A392DC",
@@ -207,8 +207,8 @@
     "statusBarItem.prominentBackground": "#1f1f1f",
     "editorError.foreground": "#D1918F",
     "sash.hoverBorder": "#434343",
-    "tab.activeForeground": "#d4d4d4",
-    "tab.hoverForeground": "#d4d4d4",
+    "tab.activeForeground": "#DEE0EF",
+    "tab.hoverForeground": "#DEE0EF",
     "tab.inactiveBackground": "#1f1f1f",
     "tab.activeBorderTop": "#7a7a7a",
     "editorSuggestWidget.background": "#1f1f1f",
@@ -217,13 +217,13 @@
     "editorSuggestWidget.selectedBackground": "#282828",
     "editorLineNumber.foreground": "#434343",
     "button.background": "#434343",
-    "button.foreground": "#d4d4d4",
+    "button.foreground": "#DEE0EF",
     "list.highlightForeground": "#d5d5d5",
     "list.inactiveSelectionBackground": "#2a2d2e",
-    "list.inactiveSelectionForeground": "#d4d4d4",
+    "list.inactiveSelectionForeground": "#DEE0EF",
     "list.activeSelectionBackground": "#2a2d2e",
-    "list.activeSelectionForeground": "#d4d4d4",
-    "list.hoverForeground": "#d4d4d4",
+    "list.activeSelectionForeground": "#DEE0EF",
+    "list.hoverForeground": "#DEE0EF",
     "editorGroupHeader.tabsBackground": "#1f1f1f",
     "breadcrumb.foreground": "#434343",
     "breadcrumb.focusForeground": "#7a7a7a",

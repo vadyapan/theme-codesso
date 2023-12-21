@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/main_cover.png)
+![Cover](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/header.png)
 
 # Installation
 

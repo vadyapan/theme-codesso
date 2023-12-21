@@ -6,19 +6,27 @@
 2. Search for **`codesso`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
-   **Codesso** or **Codesso Light**
+   **Codesso** or **Codesso Contrast** or **Codesso Light**
 
 <div align="center">
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/dark-screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/c-screenshot.png)
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/light-screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cc-screenshot.png)
+
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cl-screenshot.png)
 
 </div>
 
 # Recommendations
 
-Below you can find a few recommendations for your `settings.json`:
+Below you can find a few recommendations:
+
+**settings**
+
+`Settings > Search settings: Bracket Pair Colorization: Enabled > Activate`
+
+**settings.json**
 
 ```json
 {

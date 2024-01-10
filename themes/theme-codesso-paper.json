@@ -94,7 +94,7 @@
     {
       "scope": "meta.property-value.css",
       "settings": {
-        "foreground": "#886CDB"
+        "foreground": "#7d63ca"
       }
     },
     {
@@ -118,7 +118,7 @@
     {
       "scope": ["punctuation.definition.string"],
       "settings": {
-        "foreground": "#886CDB"
+        "foreground": "#7d63ca"
       }
     },
     {
@@ -136,7 +136,7 @@
     {
       "scope": ["string"],
       "settings": {
-        "foreground": "#886CDB"
+        "foreground": "#7d63ca"
       }
     },
     {
@@ -148,7 +148,7 @@
     {
       "scope": ["support.constant"],
       "settings": {
-        "foreground": "#886CDB"
+        "foreground": "#7d63ca"
       }
     },
     {
@@ -197,7 +197,7 @@
     "sideBarSectionHeader.foreground": "#4E5377",
     "statusBar.background": "#EEE8AA",
     "statusBar.foreground": "#7a7a7a",
-    "statusBar.debuggingBorder": "#A392DC",
+    "statusBar.debuggingBorder": "#f06754",
     "statusBar.debuggingBackground": "#EEE8AA",
     "statusBar.debuggingForeground": "#7a7a7a",
     "statusBarItem.remoteBackground": "#EEE8AA",
@@ -206,14 +206,14 @@
     "sash.hoverBorder": "#e4dea6",
     "tab.activeForeground": "#4E5377",
     "tab.hoverForeground": "#4E5377",
-    "tab.inactiveBackground": "#EEE8AA",
+    "tab.inactiveBackground": "#e4dea6",
     "tab.activeBorderTop": "#7a7a7a",
     "tab.border": "#cfc998",
     "editorSuggestWidget.background": "#e8e4bb",
     "editorSuggestWidget.foreground": "#737587",
     "editorSuggestWidget.border": "#6e6a8626",
     "editorSuggestWidget.selectedBackground": "#e4dea6",
-    "button.background": "#c4c4c4",
+    "button.background": "#dad37f",
     "button.foreground": "#333333",
     "list.highlightForeground": "#303975",
     "list.inactiveSelectionBackground": "#e4dea6",
@@ -222,7 +222,7 @@
     "list.activeSelectionForeground": "#4E5377",
     "list.hoverForeground": "#4E5377",
     "list.hoverBackground": "#e4dea6",
-    "editorGroupHeader.tabsBackground": "#EEE8AA",
+    "editorGroupHeader.tabsBackground": "#e4dea6",
     "breadcrumb.foreground": "#7a7a7a",
     "breadcrumb.focusForeground": "#5F6488",
     "editor.findMatchBackground": "#6e6a8626",
@@ -261,7 +261,7 @@
     "editorError.foreground": "#D26A5D",
     "editorGhostText.foreground": "#5F6488",
     "editorGroup.border": "#0000",
-    "editorGroup.dropBackground": "#F1F1F4",
+    "editorGroup.dropBackground": "#e8e4ba",
     "editorGroup.emptyBackground": "#0000",
     "editorGroup.focusedEmptyBorder": "#0000",
     "editorGroupHeader.noTabsBackground": "#0000",
@@ -278,7 +278,7 @@
     "editorHoverWidget.foreground": "#5F6488",
     "editorHoverWidget.highlightForeground": "#4E5377",
     "editorHoverWidget.statusBarBackground": "#0000",
-    "editorIndentGuide.activeBackground": "#9d9d9d",
+    "editorIndentGuide.activeBackground": "#c0bb8c",
     "editorIndentGuide.background": "#d8d3a5",
     "editorInfo.foreground": "#3738be",
     "editorInlayHint.background": "#e8e4bb",
@@ -331,7 +331,7 @@
     "gitDecoration.conflictingResourceForeground": "#D26A5D80",
     "gitDecoration.deletedResourceForeground": "#5F6488",
     "gitDecoration.ignoredResourceForeground": "#8388AD",
-    "gitDecoration.modifiedResourceForeground": "#f06754",
+    "gitDecoration.modifiedResourceForeground": "#333333",
     "gitDecoration.renamedResourceForeground": "#3788BE80",
     "gitDecoration.stageDeletedResourceForeground": "#D26A5D80",
     "gitDecoration.stageModifiedResourceForeground": "#77AAB380",

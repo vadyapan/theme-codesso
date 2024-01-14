@@ -6,7 +6,7 @@
 2. Search for **`codesso`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
-   **Codesso** or **Codesso Contrast** or **Codesso Light** or **Codesso Paper**
+   **Codesso** or **Codesso Contrast** or **Codesso Light** or **Codesso Contrast Light**
 
 <div align="center">
 
@@ -15,8 +15,6 @@
 ![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot2.png)
 
 ![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot3.png)
-
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot4.png)
 
 </div>
 

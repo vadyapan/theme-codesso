@@ -262,7 +262,6 @@
     "editorBracketHighlight.foreground5": "#D6B4B480",
     "editorBracketHighlight.foreground6": "#AAC9D480",
     "editorBracketMatch.background": "#0000",
-    "editorBracketMatch.border": "#6B6D7C",
     "peekViewEditor.background": "#1f1f1f",
     "peekViewEditor.matchHighlightBackground": "#D1918F80",
     "peekView.border": "#7a7a7a",

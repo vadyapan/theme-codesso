@@ -164,14 +164,15 @@
       }
     },
     {
-      "scope": [
-        "variable.other",
-        "variable.language",
-        "variable.function",
-        "variable.argument"
-      ],
+      "scope": ["variable.other", "variable.function", "variable.argument"],
       "settings": {
         "foreground": "#DEE0EF"
+      }
+    },
+    {
+      "scope": ["variable.language"],
+      "settings": {
+        "foreground": "#7a7a7a"
       }
     },
     {
@@ -210,7 +211,7 @@
     "sash.hoverBorder": "#434343",
     "tab.activeForeground": "#DEE0EF",
     "tab.hoverForeground": "#DEE0EF",
-    "tab.inactiveBackground": "#1f1f1f",
+    "tab.inactiveBackground": "#2a2d2e",
     "tab.activeBorderTop": "#7a7a7a",
     "editorSuggestWidget.background": "#1f1f1f",
     "editorSuggestWidget.foreground": "#bdbdbd",
@@ -262,7 +263,6 @@
     "editorBracketHighlight.foreground5": "#F19A8E80",
     "editorBracketHighlight.foreground6": "#77AAB380",
     "editorBracketMatch.background": "#0000",
-    "editorBracketMatch.border": "#6B6D7C",
     "peekViewEditor.background": "#1f1f1f",
     "peekViewEditor.matchHighlightBackground": "#D1918F80",
     "peekView.border": "#7a7a7a",

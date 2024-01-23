@@ -6,7 +6,7 @@
 2. Search for **`codesso`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
-   **Codesso** or **Codesso Contrast** or **Codesso Light** or **Codesso Contrast Light**
+   **Codesso** or **Codesso Contrast** or **Codesso Light**
 
 <div align="center">
 

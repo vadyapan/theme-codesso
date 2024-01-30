@@ -1,7 +1,6 @@
 {
   "name": "Codesso Contrast",
   "type": "dark",
-  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": ["comment"],

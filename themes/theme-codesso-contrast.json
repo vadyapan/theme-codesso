@@ -211,6 +211,7 @@
     "sash.hoverBorder": "#434343",
     "tab.activeForeground": "#DEE0EF",
     "tab.hoverForeground": "#DEE0EF",
+    "tab.hoverBackground": "#313232",
     "tab.inactiveBackground": "#2a2d2e",
     "tab.activeBorderTop": "#7a7a7a",
     "editorSuggestWidget.background": "#1f1f1f",

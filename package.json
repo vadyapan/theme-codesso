@@ -2,7 +2,7 @@
   "name": "codesso",
   "displayName": "Codesso",
   "description": "A very clean, minimalistic theme for VS Code",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "engines": {
     "vscode": "^1.76.0"
   },

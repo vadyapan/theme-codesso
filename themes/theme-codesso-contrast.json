@@ -215,7 +215,7 @@
     "tab.activeBorderTop": "#7a7a7a",
     "editorSuggestWidget.background": "#1f1f1f",
     "editorSuggestWidget.foreground": "#bdbdbd",
-    "editorSuggestWidget.border": "#7a7a7a",
+    "editorSuggestWidget.border": "#434343",
     "editorSuggestWidget.selectedBackground": "#282828",
     "editorLineNumber.foreground": "#434343",
     "button.background": "#434343",

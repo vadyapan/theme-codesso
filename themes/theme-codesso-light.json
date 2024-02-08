@@ -206,7 +206,7 @@
     "tab.activeForeground": "#4E5377",
     "tab.hoverForeground": "#4E5377",
     "tab.inactiveBackground": "#ffffff",
-    "tab.activeBorderTop": "#7a7a7a",
+    "tab.activeBorder": "#77AAB3",
     "editorSuggestWidget.background": "#ffffff",
     "editorSuggestWidget.foreground": "#737587",
     "editorSuggestWidget.border": "#D8DAE4",

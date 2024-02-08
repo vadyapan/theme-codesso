@@ -2,7 +2,7 @@
   "name": "codesso",
   "displayName": "Codesso",
   "description": "A very clean, minimalistic theme for VS Code",
-  "version": "1.2.8",
+  "version": "1.3.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -33,6 +33,16 @@
         "label": "Codesso Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-codesso-contrast.json"
+      },
+      {
+        "label": "Codesso Italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-codesso-italics.json"
+      },
+      {
+        "label": "Codesso Contrast Italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-codesso-contrast-italics.json"
       },
       {
         "label": "Codesso Light",

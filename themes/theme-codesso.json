@@ -211,7 +211,7 @@
     "tab.hoverForeground": "#DEE0EF",
     "tab.hoverBackground": "#313232",
     "tab.inactiveBackground": "#1f1f1f",
-    "tab.activeBorderTop": "#7a7a7a",
+    "tab.activeBorder": "#AAC9D4",
     "editorSuggestWidget.background": "#1f1f1f",
     "editorSuggestWidget.foreground": "#bdbdbd",
     "editorSuggestWidget.border": "#434343",

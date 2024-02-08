@@ -6,13 +6,11 @@
 2. Search for **`codesso`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
-   **Codesso** or **Codesso Contrast** or **Codesso Light**
+   **Codesso** or **Codesso Contrast** or **Codesso Contrast Italics** or **Codesso Italics** or **Codesso Light**
 
 <div align="center">
 
 ![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot1.png)
-
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot2.png)
 
 ![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot3.png)
 

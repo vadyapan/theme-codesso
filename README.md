@@ -10,11 +10,19 @@
 
 <div align="center">
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot1.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/c.png)
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/screenshot3.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cc.png)
+
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cl.png)
+
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cm.png)
 
 </div>
+
+> The font in the screenshots is [Lilex][lilex-install]
+
+[lilex-install]: https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono
 
 # Recommendations
 

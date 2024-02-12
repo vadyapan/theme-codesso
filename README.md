@@ -22,7 +22,7 @@
 
 > The font in the screenshots is [Lilex][lilex-install]
 
-[lilex-install]: https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono
+[lilex-install]: https://github.com/mishamyrt/Lilex
 
 # Recommendations
 

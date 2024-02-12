@@ -5,8 +5,7 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for **`codesso`**
 3. Click **Install** to install it.
-4. Code > Preferences > Color Theme >
-   **Codesso** or **Codesso Contrast** or **Codesso Contrast Italics** or **Codesso Italics** or **Codesso Light**
+4. Code > Preferences > Color Theme > Choose your **Codesso**
 
 <div align="center">
 

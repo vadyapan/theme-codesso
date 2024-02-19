@@ -186,6 +186,7 @@
   ],
   "colors": {
     "focusBorder": "#00000000",
+    "selection.background": "#2a735d4d",
     "editor.background": "#1f1f1f",
     "editor.foreground": "#DEE0EF",
     "editorCursor.foreground": "#DEE0EF",

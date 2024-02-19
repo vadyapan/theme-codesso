@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/header.png)
+![Cover](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/main-header.png)
 
 # Installation
 
@@ -9,11 +9,13 @@
 
 <div align="center">
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/c.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/sc.png)
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cc.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/scc.png)
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/cl.png)
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/scl.png)
+
+![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/scu.png)
 
 </div>
 

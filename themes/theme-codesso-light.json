@@ -182,6 +182,7 @@
   ],
   "colors": {
     "focusBorder": "#00000000",
+    "selection.background": "#6e6a8614",
     "editor.background": "#ffffff",
     "editor.foreground": "#4E5377",
     "activityBar.background": "#ffffff",

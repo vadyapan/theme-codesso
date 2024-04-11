@@ -15,8 +15,6 @@
 
 ![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/scl.png)
 
-![ScreenShot](https://raw.githubusercontent.com/vadyapan/theme-codesso/main/assets/scu.png)
-
 </div>
 
 > The font in the screenshots is [Lilex][lilex-install]

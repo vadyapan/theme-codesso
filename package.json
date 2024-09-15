@@ -38,6 +38,11 @@
         "label": "Codesso Light",
         "uiTheme": "vs",
         "path": "./themes/theme-codesso-light.json"
+      },
+      {
+        "label": "Codesso Unison (Beta)",
+        "uiTheme": "vs",
+        "path": "./themes/theme-codesso-unison.json"
       }
     ]
   }

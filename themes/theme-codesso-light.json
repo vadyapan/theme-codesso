@@ -1,7 +1,6 @@
 {
   "name": "Codesso Light",
   "type": "light",
-  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": ["comment"],
